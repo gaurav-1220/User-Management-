@@ -24,9 +24,8 @@ $stmt = mysqli_prepare($conn, $sql_fetch);
 mysqli_stmt_bind_param($stmt, "i", $id);
 mysqli_stmt_execute($stmt);
 
-mysqli_stmt_bind_result($stmt, $name, $email);
-
-mysqli_stmt_fetch($stmt);
+mysqli_stmt_bind_result($stmt, $name, $email); //autofill
+mysqli_stmt_fetch($stmt); //autofill
 mysqli_stmt_close($stmt);
 
 mysqli_close($conn);
