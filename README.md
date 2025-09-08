@@ -8,7 +8,7 @@ The application is styled with Bootstrap 5 using a custom color palette.
 
 ![Main page](https://i.ibb.co/21kn4MF3/Screenshot-2025-09-08-175306.png) <br>
 ![Register](https://i.ibb.co/Sw7cFbnL/Screenshot-2025-09-08-175243.png) <br>
-![Login](https://i.ibb.co/LhtgZPsX/chrome-capture-2025-09-08.gif) <br>
+![Login](https://i.ibb.co/7tBsVnd9/Screenshot-2025-09-08-175440.png) <br>
 ![Login](https://i.ibb.co/848LfLk2/Screenshot-2025-09-08-175450.png)
 
 
