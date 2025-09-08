@@ -6,8 +6,10 @@ The application is styled with Bootstrap 5 using a custom color palette.
 
 ## Screenshot
 
-![App Screenshot](https://i.ibb.co/Q76Fwpgm/Screenshot-2025-09-05-182914.png) <br>
-![App Screenshot](https://i.ibb.co/vCrdSDL8/Screenshot-2025-09-05-182924.png)
+![Main page](https://i.ibb.co/21kn4MF3/Screenshot-2025-09-08-175306.png) <br>
+![Register](https://i.ibb.co/Sw7cFbnL/Screenshot-2025-09-08-175243.png) <br>
+![Login](https://i.ibb.co/7tBsVnd9/Screenshot-2025-09-08-175440.png) <br>
+![Login](https://i.ibb.co/848LfLk2/Screenshot-2025-09-08-175450.png)
 
 
 ## Features
@@ -27,3 +29,4 @@ The application is styled with Bootstrap 5 using a custom color palette.
 -   MySQL
 -   HTML5
 -   CSS3 (with Bootstrap 5)
+-   JavaScript
